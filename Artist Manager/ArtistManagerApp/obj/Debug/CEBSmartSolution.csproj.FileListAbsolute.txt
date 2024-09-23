@@ -1,0 +1,201 @@
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\ApplicationInsights.config
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csc.exe
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csc.exe.config
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csc.rsp
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csi.exe
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csi.rsp
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.AppContext.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\vbc.exe
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\vbc.exe.config
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\vbc.rsp
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution.dll.config
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution.pdb
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Antlr3.Runtime.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution_ClassLibrary.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.Web.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Newtonsoft.Json.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\System.Web.Optimization.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\WebGrease.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution_ClassLibrary.pdb
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\System.Web.Optimization.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Antlr3.Runtime.pdb
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Newtonsoft.Json.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.Web.xml
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.csprojAssemblyReference.cache
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.csproj.CopyComplete
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.dll
+C:\Users\Laki\Desktop\CEB new test\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.pdb
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\ApplicationInsights.config
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csc.exe
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csc.exe.config
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csc.rsp
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csi.exe
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\csi.rsp
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.AppContext.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\vbc.exe
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\vbc.exe.config
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\vbc.rsp
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution.dll.config
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution.pdb
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Antlr3.Runtime.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution_ClassLibrary.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.Web.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Newtonsoft.Json.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\System.Web.Optimization.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\WebGrease.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\CEBSmartSolution_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\System.Web.Optimization.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Antlr3.Runtime.pdb
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Newtonsoft.Json.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\bin\Microsoft.AI.Web.xml
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.csprojAssemblyReference.cache
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.csproj.CopyComplete
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.dll
+C:\Users\Laki\Desktop\Mondo\CEB Smart Solution\CEBSmartSolution\obj\Debug\CEBSmartSolution.pdb
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\ApplicationInsights.config
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\csc.exe
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\csc.exe.config
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\csc.rsp
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\csi.exe
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\csi.rsp
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\System.AppContext.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\vbc.exe
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\vbc.exe.config
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\vbc.rsp
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\CEBSmartSolution.dll.config
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\CEBSmartSolution.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\CEBSmartSolution.pdb
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Antlr3.Runtime.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.Web.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Newtonsoft.Json.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\System.Web.Optimization.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\WebGrease.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\System.Web.Optimization.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Antlr3.Runtime.pdb
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Newtonsoft.Json.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\bin\Microsoft.AI.Web.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\obj\Debug\CEBSmartSolution.csprojAssemblyReference.cache
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\obj\Debug\CEBSmartSolution.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\obj\Debug\CEBSmartSolution.csproj.CopyComplete
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\obj\Debug\CEBSmartSolution.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\CEBSmartSolution\obj\Debug\CEBSmartSolution.pdb

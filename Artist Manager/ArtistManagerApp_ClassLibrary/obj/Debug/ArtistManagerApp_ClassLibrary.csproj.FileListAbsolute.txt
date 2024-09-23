@@ -1,0 +1,36 @@
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.pdb
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.config
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.pdb
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.CodeAnalysisLog.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.lastcodeanalysissucceeded
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.csproj.AssemblyReference.cache
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.csproj.CoreCompileInputs.cache
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.pdb
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.config
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.pdb
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.CodeAnalysisLog.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\bin\Debug\ArtistManagerApp_ClassLibrary.dll.lastcodeanalysissucceeded
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.csproj.AssemblyReference.cache
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.csproj.CoreCompileInputs.cache
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp_ClassLibrary\obj\Debug\ArtistManagerApp_ClassLibrary.pdb

@@ -1,0 +1,274 @@
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\ApplicationInsights.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\csc.exe
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\csc.exe.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\csc.rsp
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\csi.exe
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\csi.rsp
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\System.AppContext.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\vbc.exe
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\vbc.exe.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\vbc.rsp
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\ArtistManagerApp.dll.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\ArtistManagerApp.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\ArtistManagerApp.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Antlr3.Runtime.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.Web.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Newtonsoft.Json.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\System.Web.Optimization.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\WebGrease.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\System.Web.Optimization.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Antlr3.Runtime.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Newtonsoft.Json.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\bin\Microsoft.AI.Web.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.AssemblyReference.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.CopyComplete
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\obj\Debug\ArtistManagerApp.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\MariansArtistManagerApp\obj\Debug\ArtistManagerApp.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.AssemblyReference.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.Properties.Resources.resources
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.GenerateResource.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\ApplicationInsights.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\csc.exe
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\csc.exe.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\csc.rsp
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\csi.exe
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\csi.rsp
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\System.AppContext.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.exe
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.exe.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.rsp
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.dll.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Antlr3.Runtime.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Web.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Newtonsoft.Json.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\System.Web.Optimization.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\WebGrease.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\System.Web.Optimization.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Antlr3.Runtime.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Newtonsoft.Json.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Web.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.CopyComplete
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.pdb
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\ApplicationInsights.config
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\csc.exe
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\csc.exe.config
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\csc.rsp
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\csi.exe
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\csi.rsp
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\System.AppContext.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\System.Collections.Immutable.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\System.IO.FileSystem.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.exe
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.exe.config
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.rsp
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\VBCSCompiler.exe
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\roslyn\VBCSCompiler.exe.config
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.dll.config
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.pdb
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Antlr3.Runtime.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Web.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.WindowsServer.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.ApplicationInsights.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.Web.Infrastructure.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Newtonsoft.Json.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\System.Web.Optimization.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\WebGrease.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.pdb
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.dll.config
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\System.Web.Optimization.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Antlr3.Runtime.pdb
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Newtonsoft.Json.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.ApplicationInsights.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.WindowsServer.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Web.xml
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.AssemblyReference.cache
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.Properties.Resources.resources
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.GenerateResource.cache
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.CoreCompileInputs.cache
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.CopyComplete
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.dll
+D:\NSBM\Final Year Project\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.pdb
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\ApplicationInsights.config
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\csc.exe
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\csc.exe.config
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\csc.rsp
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\csi.exe
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\csi.rsp
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\System.AppContext.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\System.Collections.Immutable.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\System.IO.FileSystem.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.exe
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.exe.config
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\vbc.rsp
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\VBCSCompiler.exe
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\roslyn\VBCSCompiler.exe.config
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.dll.config
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp.pdb
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Antlr3.Runtime.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Web.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.WindowsServer.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.ApplicationInsights.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.Web.Infrastructure.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Newtonsoft.Json.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\System.Web.Optimization.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\WebGrease.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.pdb
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\ArtistManagerApp_ClassLibrary.dll.config
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\System.Web.Optimization.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Antlr3.Runtime.pdb
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Newtonsoft.Json.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.ApplicationInsights.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.WindowsServer.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\bin\Microsoft.AI.Web.xml
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.AssemblyReference.cache
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.Properties.Resources.resources
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.GenerateResource.cache
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.CoreCompileInputs.cache
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.csproj.CopyComplete
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.dll
+D:\NSBM\Final Year Project\10820888_FinalProduct\Web Application\Artist Manager\ArtistManagerApp\obj\Debug\ArtistManagerApp.pdb

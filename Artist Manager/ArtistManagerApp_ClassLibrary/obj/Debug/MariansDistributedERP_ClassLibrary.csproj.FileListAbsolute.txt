@@ -1,0 +1,276 @@
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\AvenraDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\AvenraDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\AvenraDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\AvenraDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\AvenraDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\AvenraDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\laksh\OneDrive\Desktop\rename test\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+D:\Project Backups\.net\Renamed Marians app\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\Renamed Marians app 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\INSIGHT\Desktop\Renamed Marians app 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\Renamed Marians app 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\Renamed Marians app 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\INSIGHT\Desktop\Renamed Marians app 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\INSIGHT\Desktop\Renamed Marians app 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INSIGHT\Desktop\Renamed Marians app 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\Renamed Marians app 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians App Final\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Ceylon HQ\Desktop\Marians App Final\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians App Final\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians App Final\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Ceylon HQ\Desktop\Marians App Final\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Ceylon HQ\Desktop\Marians App Final\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians App Final\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\updated\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\updated 1\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\INSIGHT\Desktop\Marians update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\INSIGHT\Desktop\Marians update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\Marians update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\Marians update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\INSIGHT\Desktop\Marians update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\INSIGHT\Desktop\Marians update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INSIGHT\Desktop\Marians update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\Marians update 2\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.2\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\laksh\OneDrive\Desktop\Marians Artist Manager V.3\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\laksh\OneDrive\Desktop\Lakshan\Marians Artist Manager V.5.1\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Desktop Projects\Marians\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.AssemblyReference.cache
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+E:\ceylon innovation projects\Web Applications\Marians\Marians Artist Manager 2021.07.05\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.AssemblyReference.cache
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+E:\ceylon innovation projects\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+E:\Projects\Ceylon Innovation\Web Applications\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2021-07-15\Marians Artist Manager 2021-07-15\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-02-28\Marians Artist Manager 2022-03-01\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-03-18\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-03-18\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-03-18\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-03-18\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-03-18\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-03-18\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-03-18\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-03-18\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-08-31\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-13\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-13\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-13\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-13\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-13\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-13\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-13\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-13\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-16\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-16\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-16\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-16\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-16\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-16\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-16\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-09-16\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-10-03\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-10-03\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-10-03\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-10-03\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-10-03\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-10-03\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-09-13\Marians Artist Manager 2022-10-03\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-10-03\Marians Artist Manager 2022-12-08\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-10-03\Marians Artist Manager 2022-12-08\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-10-03\Marians Artist Manager 2022-12-08\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-10-03\Marians Artist Manager 2022-12-08\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-10-03\Marians Artist Manager 2022-12-08\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-10-03\Marians Artist Manager 2022-12-08\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-10-03\Marians Artist Manager 2022-12-08\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-10-03\Marians Artist Manager 2022-12-08\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2022-12-30\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2022-12-30\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2022-12-30\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2022-12-30\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2022-12-30\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2022-12-30\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2022-12-30\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2022-12-30\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2023-01-27\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2023-01-27\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2023-01-27\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2023-01-27\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2023-01-27\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2023-01-27\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2023-01-27\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\Ceylon Projects\Marians 2022-12-30\Marians Artist Manager 2023-01-27\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Debug\MariansDistributedERP_ClassLibrary.dll.lastcodeanalysissucceeded
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Laki\Desktop\My Projects\Artist Manager\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Debug\MariansDistributedERP_ClassLibrary.pdb

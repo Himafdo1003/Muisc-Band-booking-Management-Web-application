@@ -1,0 +1,249 @@
+﻿input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    -webkit-appearance: none;
+    border-radius: 0;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    -webkit-appearance: none;
+    border-radius: 0;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+    -webkit-appearance: none;
+    border-radius: 0;
+    position: absolute;
+    top: 9px;
+    left: 8px;
+    z-index: 1;
+    width: 74px;
+}
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+        -webkit-appearance: none;
+        border-radius: 0;
+    }
+
+    .body-content {
+        padding: 0;
+        -webkit-appearance: none;
+        border-radius: 0;
+    }
+}
+
+
+.StartButton {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+}
+.SearchButton {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+    left: 365px;
+    top: 9px;
+    width: 120px;
+    height: 37px;
+}
+.NewRealButton {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+    left: 265px;
+    top: 44px;
+    width: 120px;
+    height: 37px;
+}
+.CustomerDataGrid {
+    width: 380px;
+    height: 180px;
+    left: 404px;
+    top: 239px;
+}
+.BackButtonStyle {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+    width: 150px;
+    height: 80px;
+    left: 20px;
+    top: 20px;
+}
+.SearchCust {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+    width: 120px;
+    height: 39px;
+    left: 415px;
+    top: 8px;
+}
+.CustGuest {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+    width: 120px;
+    height: 39px;
+    left: 415px;
+    top: 48px;
+}
+.CustReg {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+    width: 120px;
+    height: 39px;
+    left: 415px;
+    top: 172px;
+}
+
+.EatInStyle {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+    left: 400px;
+    top: 300px;
+}
+
+.TakeawayStyle {
+    border-radius: 0;
+    -webkit-appearance: none;
+    position: absolute;
+    left: 670px;
+    top: 300px;
+}
+
+.BayfonteLogo {
+    position: absolute;
+    left: 520px;
+    top: 60px;
+}
+.BayfonteLogoType2 {
+    position: absolute;
+    left: 750px;
+    top: -5px;
+}
+
+.RegisterButton {
+    position: absolute;
+    width: 150px;
+    height: 80px;
+    left: 750px;
+    top: 500px;
+    border-radius: 0;
+    -webkit-appearance: none;
+    background-color: white;
+    border-style: outset;
+    border-color: black;
+}
+
+.GuessButton {
+    position: absolute;
+    width: 150px;
+    height: 80px;
+    left: 750px;
+    top: 400px;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+.SearchTextBoxStyle {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    left: 300px;
+    top: 300px;
+}
+.C1 {
+    position: absolute;
+    width: 170px;
+    height: 30px;
+    left: 88px;
+    top: 45px;
+}
+.C2 {
+    position: absolute;
+    width: 170px;
+    height: 30px;
+    left: 88px;
+    top: 80px;
+}
+.C3 {
+    position: absolute;
+    width: 170px;
+    height: 30px;
+    left: 88px;
+    top: 115px;
+}
+.C4 {
+    position: absolute;
+    width: 170px;
+    height: 30px;
+    left: 88px;
+    top: 150px;
+}
+.Reg1 {
+    position: absolute;
+    width: 150px;
+    height: 72px;
+    left: 280px;
+    top: 60px;
+    background-color : white;
+    border-style : outset;
+    border-color : black;
+}
+
+.AddressTextBoxStyle {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    left: 300px;
+    top: 360px;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+.EmailTextBoxStyle {
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    left: 300px;
+    top: 420px;
+}
+
+.PhoneTextBoxStyle {
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    left: 300px;
+    top: 490px;
+}
+
+.NICTextBoxStyle {
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    left: 300px;
+    top: 550px;
+}
+

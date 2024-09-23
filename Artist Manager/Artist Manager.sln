@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtistManagerApp", "ArtistManagerApp\ArtistManagerApp.csproj", "{1201673E-01AD-4DAF-97A5-72B0F1882A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtistManagerApp_ClassLibrary", "ArtistManagerApp_ClassLibrary\ArtistManagerApp_ClassLibrary.csproj", "{0C08CD26-2312-4947-9350-D52F23983D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1201673E-01AD-4DAF-97A5-72B0F1882A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1201673E-01AD-4DAF-97A5-72B0F1882A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1201673E-01AD-4DAF-97A5-72B0F1882A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1201673E-01AD-4DAF-97A5-72B0F1882A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C08CD26-2312-4947-9350-D52F23983D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C08CD26-2312-4947-9350-D52F23983D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C08CD26-2312-4947-9350-D52F23983D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C08CD26-2312-4947-9350-D52F23983D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5584BE22-9A31-4121-A0FA-568C7F0ECCD0}
+	EndGlobalSection
+EndGlobal

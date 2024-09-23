@@ -1,0 +1,108 @@
+﻿
+.third {
+    border-color: #fff;
+    color: #fff;
+    box-shadow: 0 0 60px 60px #000 inset, 0 0 0 0 #000;
+    transition: all 150ms ease-in-out;
+}
+
+    .third:hover {
+        box-shadow: 0 0 10px 0 #808080 inset, 0 0 10px 4px #808080;
+        color: #808080;
+    }
+
+.Blue {
+    border-color: #21095e;
+    color: #808080;
+    box-shadow: 0 0 60px 60px #21095e inset, 0 0 0 0 #21095e;
+    transition: all 150ms ease-in-out;
+}
+
+    .Blue:hover {
+        box-shadow: 0 0 10px 0 #808080 inset, 0 0 10px 4px #808080;
+        color: #808080;
+    }
+
+
+.thirdi {
+    border-color: #060d5b;
+    color: #808080;
+    box-shadow: 0 0 80px 80px #060d5b inset, 0 0 0 0 #060d5b;
+    transition: all 150ms ease-in-out;
+}
+
+    .thirdi:hover {
+        box-shadow: 0 0 10px 0 #808080 inset, 0 0 10px 4px #808080;
+        color: #808080;
+    }
+
+.thirdRed {
+    border-color: #ff0000;
+    color: #fff;
+    box-shadow: 0 0 80px 80px #ff0000 inset, 0 0 0 0 #ff0000;
+    transition: all 150ms ease-in-out;
+}
+
+    .thirdRed:hover {
+        box-shadow: 0 0 10px 0 #ff0000 inset, 0 0 10px 4px #ff0000;
+        color: #000;
+    }
+
+.thirdGreen {
+    border-color: #16b52a;
+    color: #fff;
+    box-shadow: 0 0 80px 80px #16b52a inset, 0 0 0 0 #16b52a;
+    transition: all 150ms ease-in-out;
+}
+
+    .thirdGreen:hover {
+        box-shadow: 0 0 10px 0 #16b52a inset, 0 0 10px 4px #16b52a;
+        color: #000;
+    }
+
+.thirdPlus {
+    border-color: #eb9049;
+    color: #fff;
+    box-shadow: 0 0 80px 80px #eb9049 inset, 0 0 0 0 #eb9049;
+    transition: all 150ms ease-in-out;
+}
+
+.thirdPlus:hover {
+    box-shadow: 0 0 10px 0 #eb9049 inset, 0 0 10px 4px #eb9049;
+    color: #000;
+}
+
+.thirdMi {
+    border-color: #fae45d;
+    color: #fff;
+    box-shadow: 0 0 80px 80px #fae45d inset, 0 0 0 0 #fae45d;
+    transition: all 150ms ease-in-out;
+}
+
+    .thirdMi:hover {
+        box-shadow: 0 0 10px 0 #fae45d inset, 0 0 10px 4px #fae45d;
+        color: #000;
+    }
+
+.thirdLB {
+    border-color: #8ac2df;
+    color: #fff;
+    box-shadow: 0 0 80px 80px #8ac2df inset, 0 0 0 0 #8ac2df;
+    transition: all 150ms ease-in-out;
+}
+
+    .thirdLB:hover {
+        box-shadow: 0 0 10px 0 #8ac2df inset, 0 0 10px 4px #8ac2df;
+        color: #000;
+    }
+.thirdPink {
+    border-color: #de2ef3;
+    color: #fff;
+    box-shadow: 0 0 80px 80px #de2ef3 inset, 0 0 0 0 #de2ef3;
+    transition: all 150ms ease-in-out;
+}
+
+    .thirdPink:hover {
+        box-shadow: 0 0 10px 0 #de2ef3 inset, 0 0 10px 4px #de2ef3;
+        color: #000;
+    }
